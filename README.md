@@ -25,6 +25,17 @@ An interactive, high-stakes trivia game where players answer questions to build 
  * Run the Game:
    python Questioning.py
 
+   #---
+## 🎮 Project 2: Snake, Water, Gun
+This is a fun terminal-based game where you play against the computer. 
+### Features:
+* **Score Tracking:** Keeps track of wins for both the user and the computer.
+* **Input Validation:** Handles typos so the game doesn't crash.
+* **Game Loop:** Allows you to play multiple rounds until you type 'Exit'.
+### How to Play:
+Run the script using:
+```bash
+python Snake_Water_Gun_Game.py
 # Skills Demonstrated
  * Python 3
  * Logic Building
