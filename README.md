@@ -36,6 +36,7 @@ This is a fun terminal-based game where you play against the computer.
 Run the script using:
 ```bash
  Snake_Water_Gun_Game.py
+
 # Skills Demonstrated
  * Python 3
  * Logic Building
