@@ -32,10 +32,15 @@ This is a fun terminal-based game where you play against the computer.
 * **Score Tracking:** Keeps track of wins for both the user and the computer.
 * **Input Validation:** Handles typos so the game doesn't crash.
 * **Game Loop:** Allows you to play multiple rounds until you type 'Exit'.
-### How to Play:
-Run the script using:
-```bash
-Python Snake_Water_Gun_Game.py
+
+# ## How to Run the Projects
+ * Prerequisites: Ensure you have Python installed on your system.
+ * Clone the Repo:
+   git clone https://github.com/Aroos-jabeen/Beginner-Python-Project.git
+ * Navigate to the folder:
+   cd Beginner-Python-Project
+ * Run the Game:
+   python Questioning.py
 
 # Skills Demonstrated
  * Python 3
