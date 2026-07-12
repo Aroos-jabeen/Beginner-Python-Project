@@ -3,7 +3,7 @@ Simple Python project built to practice programming concepts like loops, conditi
 
 
 # Beginner Python Projects Collection 
-Welcome to my repository of Python practice projects! This collection showcases my journey in learning Python through interactive games and utility scripts.
+Welcome to my repository of Python practice projects! This collection showcases my journey in learning Python through interactive games and utility scripts, this project helps to learn basics of python
 ## Projects Included
 1. Python Quiz Game (Questioning.py)
 An interactive, high-stakes trivia game where players answer questions to build up a virtual "prize pool."
